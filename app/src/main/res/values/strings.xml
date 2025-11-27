@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">prak9</string>
+    <string name="app_name">Data Siswa</string>
+    <string name="entry_siswa">Tambah Siswa</string>
+    <string name="deskripsi_no_item">Tidak ada data Siswa. Tap + untuk menambah data</string>
+    <string name="nama">Nama Siswa*</string>
+    <string name="alamat">Alamat Siswa*</string>
+    <string name="telpon">Telpon Siswa*</string>
+    <string name="nama1">Nama Siswa  :</string>
+    <string name="alamat1">Alamat Siswa :</string>
+    <string name="telpon1">Telpon Siswa :</string>
+    <string name="required_field">* required fields</string>
+    <string name="btn_submit">Submit</string>
+    <string name="detail_siswa">Detail Siswa</string>
+    <string name="edit_siswa">Edit Siswa</string>
+    <string name="back">Back</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="delete">Hapus</string>
+    <string name="update">Edit</string>
+    <string name="attention">Perhatian</string>
+    <string name="tanya">Apakah anda yakin menghapus ini ?</string>
 </resources>
