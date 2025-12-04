@@ -1,4 +1,4 @@
-package com.example.prak9.view.uicontroller
+package com.example.prak9.view
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
